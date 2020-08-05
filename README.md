@@ -122,19 +122,3 @@ k.play_sound_with_path(list_speech)
     bạn có thể  đến
     căn tin
     nằm bên phải cổng phụ đi vào và đối diện cửa ra vào dãy nhà b tòa nhà học
-
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
